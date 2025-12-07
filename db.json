@@ -1934,7 +1934,10 @@
                       "09"
                     ]
                   ],
-                  "bookedSeats": []
+                  "bookedSeats": [
+                    "13",
+                    "12"
+                  ]
                 },
                 "gold": {
                   "price": 200,
