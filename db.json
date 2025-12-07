@@ -8,7 +8,7 @@
       "rating": 9,
       "duration": "3h 1m",
       "landscape": "https://assets-in.bmscdn.com/discovery-catalog/events/et00441877-jwrggfjrbz-landscape.jpg",
-      "about": "Zootopia 2 continues the story of Judy & Nick on a new adventure.",
+      "about": "Get ready to race back into the wild, colorful world of Zootopia, where animals talk, hustle, and chase their dreams - just like us!Whether you loved the first Zootopia or are diving in for the first time, this is one ride you don't want to miss!",
       "theatres": [
         {
           "id": 101,
@@ -160,7 +160,7 @@
       "rating": 8,
       "duration": "2h 2m",
       "landscape": "https://assets-in.bmscdn.com/discovery-catalog/events/et00470809-jsrltdhkzs-landscape.jpg",
-      "about": "A mysterious psychological drama unraveling deep secrets.",
+      "about": "In the misty hills of Kaattukunnu, Mlaathi Chedathi and Peeyoos struggle to survive unforeseen challenges as the chronicles of Kuriyachan, a multifaceted businessman and outlaw, blur the line between myth, longing, and reckoning, revealing that he forever rules the hills.",
       "theatres": [
         {
           "id": 101,
@@ -296,7 +296,11 @@
                       "06"
                     ]
                   ],
-                  "bookedSeats": []
+                  "bookedSeats": [
+                    "10",
+                    "09",
+                    "08"
+                  ]
                 }
               }
             },
@@ -584,7 +588,7 @@
       "rating": 9,
       "duration": "3h 1m",
       "landscape": "https://assets-in.bmscdn.com/discovery-catalog/events/et00362760-yzjjelfemy-landscape.jpg",
-      "about": "A touching love story filled with emotions.",
+      "about": "Some souls are meant to collide. Some love stories are destined to burn brighter..",
       "theatres": [
         {
           "id": 101,
@@ -1439,7 +1443,7 @@
       "rating": 9,
       "duration": "3h 1m",
       "landscape": "https://assets-in.bmscdn.com/discovery-catalog/events/et00471947-msjbuvxmhj-landscape.jpg",
-      "about": "A high-voltage action entertainer with humour.",
+      "about": "Rita's quiet life in Pondicherry turns chaotic when her family becomes entangled in a violent gang war. With her sharp mind and courage, she must outwit the gangsters to keep her loved ones safe",
       "theatres": [
         {
           "id": 101,
@@ -1854,13 +1858,13 @@
     },
     {
       "id": 6,
-      "title": "Dies Irae",
-      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC41LzEwICA2MC4xSysgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00457060-ssqftwvsbf-portrait.jpg",
-      "genre": "Horror, Thriller",
+      "title": "Kalamkaval",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC44LzEwICAxOS43SysgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00468439-xapgunhpdf-portrait.jpg",
+      "genre": "Crime, Thriller",
       "rating": 9,
       "duration": "3h 1m",
-      "landscape": "https://preview.redd.it/dies-irae-new-poster-v0-43znsfxo1fvf1.jpeg?width=1080&crop=smart&auto=webp&s=036a32d79a1182719511c1ba01805a34d7f75360",
-      "about": "A dark and terrifying thriller experience.",
+      "landscape": "https://assets-in.bmscdn.com/discovery-catalog/events/et00468439-wlztfugpeh-landscape.jpg",
+      "about": "A routine Kerala Police inquiry in the quiet village of Kottayikonam takes an unexpected turn when a trail of seemingly minor clues unravels a series of disturbing",
       "theatres": [
         {
           "id": 101,
@@ -2281,7 +2285,7 @@
       "rating": 9,
       "duration": "3h 1m",
       "landscape": "https://images.moneycontrol.com/static-mcnews/2025/10/20251022084419_risa.jpg",
-      "about": "Fourth installment of the Mastii action series.",
+      "about": "Three frustrated husbands seek freedom from their dull marriages. A wild idea promises escape and excitement. But what follows is anything but expected.",
       "theatres": [
         {
           "id": 101,
@@ -2702,7 +2706,7 @@
       "rating": 9,
       "duration": "3h 1m",
       "landscape": "https://assets-in.bmscdn.com/discovery-catalog/events/et00391156-ujbllvzfbl-landscape.jpg",
-      "about": "A high-energy romantic action sequel.",
+      "about": "In De De Pyaar De 2, love faces its toughest test yet as Ashish visits Ayesha's family home! Will the age-gap romance win hearts or stir things up? With heart, humour, and a whole lot of family madness, the Pyaar vs. Parivaar clash promises a relatable, riotous ride for every kind of audience.",
       "theatres": [
         {
           "id": 101,
@@ -3126,51 +3130,51 @@
     },
     {
       "id": "102",
-      "title": "Stand-up Comedy Night",
+      "title": "Amusement events",
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:l-text,ie-MTUrIEV2ZW50cw%3D%3D,co-FFFFFF,ff-Roboto,fs-64,lx-48,ly-320,tg-b,pa-8_0_0_0,l-end:w-300/amusement-parks-banner-desktop-collection-202503251132.png",
-      "genre": "Comedy",
+      "genre": "Entertainment",
       "rating": 9
     },
     {
       "id": "103",
-      "title": "Stand-up Comedy Night",
+      "title": "Kids park Event",
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:l-text,ie-MzArIEV2ZW50cw%3D%3D,co-FFFFFF,ff-Roboto,fs-64,lx-48,ly-320,tg-b,pa-8_0_0_0,l-end:w-300/kids-banner-desktop-collection-202503251132.png",
-      "genre": "Comedy",
+      "genre": "Games",
       "rating": 9
     }
   ],
   "premieres": [
     {
       "id": "201",
-      "title": "Deadpool 3",
+      "title": "Eleanor the Great",
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:l-image,i-discovery-catalog@@icons@@bms_premiere_v1.png,t-false,lfo-bottom_left,l-end/et00470458-yjlhythngn-portrait.jpg",
-      "genre": "Action",
+      "genre": "Mystery",
       "rating": 9.5
     },
     {
       "id": "202",
-      "title": "Deadpool 3",
+      "title": "Kill Bill",
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:l-image,i-discovery-catalog@@icons@@bms_premiere_v1.png,t-false,lfo-bottom_left,l-end/et00472636-ghmelxgtvg-portrait.jpg",
       "genre": "Action",
       "rating": 9.5
     },
     {
       "id": "203",
-      "title": "Deadpool 3",
+      "title": "Good Boy",
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:l-image,i-discovery-catalog@@icons@@bms_premiere_v1.png,t-false,lfo-bottom_left,l-end/et00459131-ekfnxravff-portrait.jpg",
-      "genre": "Action",
+      "genre": "Drama",
       "rating": 9.5
     },
     {
       "id": "204",
-      "title": "Deadpool 3",
+      "title": "Winner",
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:l-image,i-discovery-catalog@@icons@@bms_premiere_v1.png,t-false,lfo-bottom_left,l-end/et00435471-tmyyavfvuh-portrait.jpg",
       "genre": "Action",
       "rating": 9.5
     },
     {
       "id": "205",
-      "title": "Deadpool 3",
+      "title": "Elevation",
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:l-image,i-discovery-catalog@@icons@@bms_premiere_v1.png,t-false,lfo-bottom_left,l-end/et00470423-taalhgqpxp-portrait.jpg",
       "genre": "Action",
       "rating": 9.5
